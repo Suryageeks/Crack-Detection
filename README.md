@@ -35,7 +35,7 @@ Download the app.py and run the app.py
 ```
 *******************************************************************
 ## 🔗 Deployment App
-[![Streamlit](https://img.shields.io/badge/STREAMLIT-#FAA7FC?style=for-the-badge&logo=ko-fi&logoColor=white)](https://crack-detection-app.herokuapp.com/)
+[![Streamlit](https://img.shields.io/badge/STREAMLIT-565?style=for-the-badge&logo=ko-fi&logoColor=white)](https://crack-detection-app.herokuapp.com/)
 *******************************************************************
 ## Demo Video
 ![Demo Video](./Crack.gif)
