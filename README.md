@@ -2,7 +2,7 @@
 # Crack Detection App
 
  The Crack Detection App is built using a Deep Learning Model. This app is
- used to detect cracks on any surface .
+ used to detect cracks on any surface of any type.
 *******************************************************************
 ## Architecture
  To develop the model first we have augmented the images so that our 
