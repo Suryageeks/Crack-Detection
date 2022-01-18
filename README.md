@@ -1,7 +1,7 @@
 
-# Crack Detection App
+# Surface Crack Classification App
 
- The Crack Detection App is built using a Deep Learning Model. This app is
+ The Surface Crack Classification App is built using a Deep Learning Model. This app is
  used to detect cracks on any surface of any type.
 *******************************************************************
 ## Architecture
